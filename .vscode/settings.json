@@ -10,5 +10,9 @@
             "username": "prod_db",
             "password": "prod1"
         }
-    ]
+    ],
+    "dataworkspace.excludedProjects": [
+        "k/k.sqlproj"
+    ],
+    "vscode-corda.isCordaProject": false
 }

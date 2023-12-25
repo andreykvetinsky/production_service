@@ -7,18 +7,17 @@ require (
 	github.com/jackc/pgconn v1.14.0
 	github.com/jackc/pgx/v4 v4.18.1
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/labstack/gommon v0.4.0
 	github.com/rs/cors v1.8.3
 	github.com/sirupsen/logrus v1.9.0
 	github.com/swaggo/http-swagger v1.3.4
 	github.com/swaggo/swag v1.8.10
+	github.com/theartofdevel/production-service-contracts/gen/go/common v0.0.0-20221030234413-e95bfb978124
 	google.golang.org/grpc v1.50.1
 )
 
 require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
-	github.com/theartofdevel/production-service-contracts/gen/go/common v0.0.0-20221030234413-e95bfb978124 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
@@ -47,14 +46,10 @@ require (
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0 // indirect
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
-	github.com/mattn/go-colorable v0.1.11 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/pkg/errors v0.9.1
 	github.com/swaggo/files v0.0.0-20220610200504-28940afbdbfe // indirect
 	github.com/theartofdevel/production-service-contracts/gen/go/prod_service v0.0.0-20221110003839-40dfa53b5a91
-	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasttemplate v1.2.1 // indirect
 	golang.org/x/crypto v0.6.0 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sync v0.1.0
